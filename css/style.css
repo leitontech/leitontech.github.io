@@ -5,17 +5,21 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
 @font-face {
-    font-family: 'texgyreadventorregular';
+
+    /*font-family: 'texgyreadventorregular';*/
+    font-family:"Microsoft YaHei", "微软雅黑";
     src: url('../fonts/texgyreadventor-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-     font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+     /*font-family: 'open_sansregular';*/
       src:url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype');
 }
 body {
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	background:#ffffff;
 	font-size: 100%;
 }
@@ -37,7 +41,8 @@ body {
 	text-transform: uppercase;
 	color: #3B3B3B;
 	text-decoration: none;
-	font-family: 'texgyreadventorregular';
+	/*font-family: 'texgyreadventorregular';*/
+	font-family:"Microsoft YaHei", "微软雅黑";
 }
 /* search */
 .h_search{
@@ -49,7 +54,8 @@ body {
 	width: 100%;
 }
 .h_search form input[type="text"]{
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	padding: 10px 16px;
 	outline: none;
 	color: #c6c6c6;
@@ -62,7 +68,8 @@ body {
 	-webkit-appearance: none;
 }
 .h_search form input[type="submit"]{
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	background: #3B3B3B;
 	color: #ffffff;
 	text-transform: uppercase;
@@ -114,7 +121,7 @@ body {
 	border-right: 1px solid rgb(39, 37, 37);
 }
 .nav > li > a {
-	font-size: 13px;
+	font-size: 17px;
 	padding: 20px 30px;
 	text-transform: uppercase;
 }
@@ -170,7 +177,8 @@ body {
 	display:inline-block;
 	color: #353535;
 	font-size: 1.5em;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 	text-transform: uppercase;
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
@@ -220,7 +228,7 @@ body {
 }
 /* Button 1 */
 .fa-btn {
-	font-size: 14px;
+	font-size: 16px;
 	background: none;
 	cursor: pointer;
 	padding: 12px 40px;
@@ -285,7 +293,8 @@ body {
 .content_right h4{
 	color: #353535;
 	font-size: 2.5em;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 	line-height: 1.5em;
 }
 .content_right h4 span{
@@ -327,7 +336,8 @@ body {
 	text-transform: capitalize;
 	font-size: 3em;
 	color:#3b3b3b;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 }
 .about a{
 	position: relative;
@@ -342,7 +352,8 @@ body {
 	text-transform: capitalize;
 	font-size: 3em;
 	color: #3b3b3b;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 }
 .technology h4{
 	font-size: 22px;
@@ -396,7 +407,8 @@ body {
 	text-transform: capitalize;
 	font-size: 1.5em;
 	color: #3b3b3b;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 	-webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -444,7 +456,8 @@ body {
 	text-transform: capitalize;
 	font-size: 2em;
 	color: #3b3b3b;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 	margin-bottom: 15px;
 }
 /* start Social Likes */
@@ -598,7 +611,8 @@ body {
 	margin: 8% 0;
 }
 .news_letter form input[type="text"]{
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	font-weight:100;
 	padding: 10px;
 	display: block;
@@ -627,7 +641,8 @@ body {
 	text-transform: capitalize;
 	font-size: 3em;
 	color:#3b3b3b;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 }
 .company_ad p{
 	font-size: 14px;
@@ -649,7 +664,8 @@ body {
 	text-transform: capitalize;
 	font-size: 3em;
 	color:#3b3b3b;
-	font-family: 'texgyreadventorregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'texgyreadventorregular';*/
 }
 .contact-form span{
 	display:block;
@@ -660,7 +676,8 @@ body {
 	margin-bottom: 10px;
 }
 .contact-form textarea {
-	font-family: 'Open Sans', 'sans-serif';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'Open Sans', 'sans-serif';*/
 	padding: 10px;
 	display: block;
 	width: 99.3333%;
@@ -696,7 +713,8 @@ body {
 	box-shadow: none;
 }
 .contact-form input[type="submit"] {
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	-webkit-appearance: none;
 	cursor: pointer;
 	border: none;
