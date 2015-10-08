@@ -656,8 +656,11 @@ body {
 	font-family:"Microsoft YaHei", "微软雅黑";
 	/*font-family: 'texgyreadventorregular';*/
 }
+.company_ad address{
+	padding:20px 0px;
+}
 .company_ad p{
-	font-size: 14px;
+	font-size: 17px;
 	color: #3b3b3b;
 }
 .company_ad p a {
