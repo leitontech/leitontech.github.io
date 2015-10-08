@@ -234,7 +234,7 @@ body {
 
 .cau_left p span {
 	font-size:15px;
-	/*font-weight:bold;*/
+	font-weight:bold;
 }
 
 /* Button 1 */
@@ -659,6 +659,11 @@ body {
 .company_ad address{
 	padding:20px 0px;
 }
+
+.contact-form form{
+	padding:15px 0px;
+}
+
 .company_ad p{
 	font-size: 17px;
 	color: #3b3b3b;
@@ -685,7 +690,7 @@ body {
 .contact-form span{
 	display:block;
 	text-transform: capitalize;
-	font-size: 14px;
+	font-size: 16px;
 	color: #5b5b5b;
 	font-weight: normal;
 	margin-bottom: 10px;

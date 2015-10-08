@@ -37,7 +37,8 @@
 	margin: 20px 0 10px;
 }
 .item h4 a{
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	text-transform: uppercase;
 	font-size: 24px;
 	color: #3b3b3b;
@@ -52,7 +53,8 @@
 	text-decoration:none;
 }
 .item p{
-	font-family: 'open_sansregular';
+	font-family:"Microsoft YaHei", "微软雅黑";
+	/*font-family: 'open_sansregular';*/
 	font-size: 13px;
 	color: #3b3b3b;
 	line-height: 1.8em;
