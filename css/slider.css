@@ -50,7 +50,7 @@
 .da-slide h2 {
 	font-family:"Microsoft YaHei", "微软雅黑";
 	/*font-family: 'texgyreadventorregular';*/
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 	color: #202020;
 	width: 70%;
 	top: 90px;
