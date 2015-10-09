@@ -388,12 +388,21 @@ body {
 	display: block;
 	margin:10px 0 8px;
 }
+.tech_img{
+	padding-left: 0;
+}
+
+.tech_right{
+	padding-left: 10%;
+}
+
 .tech_para{
 	padding-left: 0;
 	padding-right: 0;
 }
 .technology_list1{
-	margin-top: 20px;	
+	margin: 2% 0 5% 0;	
+
 }
 .pagination > li > a, .pagination > li > span {
 	font-size: 16px;
